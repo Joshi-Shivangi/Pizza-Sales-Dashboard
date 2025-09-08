@@ -29,12 +29,7 @@ An interactive **Power BI dashboard** was created to visualize the results, help
 ---
 ✨ This project demonstrates how raw sales data can be transformed into actionable insights using SQL and Power BI.  
 
-## 📸 Dashboard Snapshots  
+![Pizza Sales Dashboard Overview](Pizza%20sales%20dasboard%20overview.png)
 
-![Pizza Sales Dashboard Overview](Pizza%20sales%20dasboard%20overview.png)  
-*This view highlights the KPIs, total revenue, orders, and sales trends over time.*  
-
-![Pizza Sales Insights](Pizza%20sales%20insights.png)  
-*This view shows sales contribution by category and size, along with top-performing pizzas.*  
 
 
