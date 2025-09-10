@@ -30,14 +30,6 @@ An interactive **Power BI dashboard** was created to visualize the results, help
 ✨ This project demonstrates how raw sales data can be transformed into actionable insights using SQL and Power BI.  
 ## Kindly find the snapshots attached above the csv file
 
-## 🖼 Dashboard Snapshots  
-
-### 📌 Sales Dashboard - Overview  
-![Pizza Sales Overview](Overview.png)
-
-### 📌 Sales Dashboard - Insights  
-![Pizza sales insights](Pizza%20sales%20insights.png)  
-
 
 
 
