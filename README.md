@@ -33,7 +33,7 @@ An interactive **Power BI dashboard** was created to visualize the results, help
 ## 🖼 Dashboard Snapshots  
 
 ### 📌 Sales Dashboard - Overview  
-![Pizza sales overview](Pizza%20sales%20overview.png)  
+![Pizza Sales Overview](Overview.png)
 
 ### 📌 Sales Dashboard - Insights  
 ![Pizza sales insights](Pizza%20sales%20insights.png)  
